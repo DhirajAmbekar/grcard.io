@@ -1,0 +1,88 @@
+
+body{
+  background-color: #aadb5c;
+
+}
+.nox{
+background-color: #aadb5c;
+
+}
+ .box{
+   height: 570px;
+   width:510px;
+   margin: 50px 50px 50px 500px;
+   background-color:#ff1493;
+ }
+.box1{
+  height:370px;
+  width:500px;
+
+  background-image:url("./img/Project\ 1_3.png");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 580px;
+  background-color:#1fdedb;
+  bordeR:  dotted 5px;
+  border-color:#363dc2;
+}
+.hoho{
+margin:25px 40px 0px 65px ;
+font-weight: bolder;
+font-size:30px;
+font-family: cursive;
+word-spacing: 4px;
+text-decoration: underline;
+letter-spacing:2px;
+color:#f2fa16;
+}
+.hoho2{
+margin:0px 0px 20px 27px;
+font-size: 19px;
+font-family: cursive;
+color: white;
+
+}
+.hoho3{
+  margin:0px 0px 50px 220px;
+text-decoration: none;
+font-size:25px;
+color:#a5f2cd;
+
+}
+.gif{
+  height:600px;
+  width:600px;
+  border:solid 2px;
+margin:100px 0px 0px 400px;
+border-radius: 50px;
+
+background-size:30px;
+
+}
+.gif2{
+  height:500px;
+  width:600px;
+  border:solid 2px;
+  margin:100px 0px 0px 400px;
+  border-radius: 50px;
+
+
+
+}
+.hi{
+  background-color: #f7ab6d;
+}
+.on{
+height:200px;
+width:200px;
+border:solid 2px;
+
+}
+.gif3{
+  height:500px;
+  width:600px;
+  border:solid 2px;
+  margin:100px 0px 0px 400px;
+  border-radius: 50px;
+  background-color: blue;
+}
